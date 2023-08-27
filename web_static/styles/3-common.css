@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    color: #484848;
+}
+
+/* Favicon */
+link[rel="shortcut icon"] {
+    /* Include the path to your favicon file */
+    /* For example: */
+    background-image: url('../images/icon.png');
+    background-size: cover;
+}
